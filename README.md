@@ -1,2 +1,2 @@
-# API_Testing
-This Repo is for API Testing
+npm init -y
+npm i express mongoose nodemon
